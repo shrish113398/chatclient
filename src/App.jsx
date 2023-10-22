@@ -26,7 +26,7 @@ if(authToken) {
         phoneNumber: cookies.get('phoneNumber'),
     }, authToken)
 }
-
+//chck1
 const App = () => {
 
     const [createType, setCreateType] = useState('');
